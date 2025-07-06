@@ -1,3 +1,5 @@
 {
-  "ver": "1.0.0"
+  "ver": "1.0.0",
+  "ios": "id123456789",
+  "aos": "net.ozian.game.slidingpuzzle"
 }
